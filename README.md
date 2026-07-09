@@ -1,4 +1,4 @@
-#  AI Engineering Journey
+# 🚀 AI Engineering Journey
 
 **The Build Log** — daily progress from Python fundamentals to shipping real AI-powered apps.
 
@@ -22,7 +22,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 
 ---
 
-## ✅ Progress
+##  Progress
 
 ### Phase 1 — Python Foundations
 
@@ -38,7 +38,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 8 | Error Handling | `day8.py` | ✅ |
 | 9 | Working with JSON | `day9.py` | ✅ |
 | 10 | Mini Project — ChatManager | `day10.py` | ✅ |
-| 11 | OpenAI API Integration | `day11.py` | ⬜ |
+| 11 | AI API Integration (Groq + Llama 3.3) | `day11.py` | ✅ |
 | 12 | Chatbot with Memory | `day12.py` | ⬜ |
 | 13 | Prompt Engineering | `day13.py` | ⬜ |
 | 14 | End-to-End AI App | `day14.py` | ⬜ |
@@ -76,6 +76,6 @@ Follow along, or steal the structure for your own build log.
 
 ---
 
-## 📄 License
+##  License
 
 Personal learning repo — feel free to browse, but code here is a work in progress, not production-ready.
