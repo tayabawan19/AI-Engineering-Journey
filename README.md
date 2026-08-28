@@ -43,16 +43,9 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 13 | Prompt Engineering | `day13.py` | ✅ |
 | 14 | End-to-End AI App | `day14.py` | ✅ |
 | 15 | Introduction to NumPy | `day15.py` | ✅ |
-| 16 | Pandas Basics | `day16.py` | ✅ |
+| 16 | Pandas Basics | `day16.py` · [📊 Workflow Chart](assets/pandas_workflow.jpg) | ✅ |
 
 More phases get added as I go.
-
----
-
-## 📊 Visual Guides
-
-### Pandas Workflow (Day 16)
-![Pandas Workflow](assets/pandas_workflow.jpg)
 
 ---
 
