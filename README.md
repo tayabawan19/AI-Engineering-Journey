@@ -49,6 +49,13 @@ More phases get added as I go.
 
 ---
 
+## 📊 Visual Guides
+
+### Pandas Workflow (Day 16)
+![Pandas Workflow](assets/pandas_workflow.jpg)
+
+---
+
 ## 🛠️ Featured Build — ChatManager (Day 10)
 
 A CLI chatbot with persistent memory, built entirely with core Python:
