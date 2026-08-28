@@ -39,9 +39,10 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 9 | Working with JSON | `day9.py` | ✅ |
 | 10 | Mini Project — ChatManager | `day10.py` | ✅ |
 | 11 | AI API Integration (Groq + Llama 3.3) | `day11.py` | ✅ |
-| 12 | Chatbot with Memory | `day12.py` | ⬜ |
-| 13 | Prompt Engineering | `day13.py` | ⬜ |
-| 14 | End-to-End AI App | `day14.py` | ⬜ |
+| 12 | Chatbot with Memory | `day12.py` | ✅ |
+| 13 | Prompt Engineering | `day13.py` | ✅ |
+| 14 | End-to-End AI App | `day14.py` | ✅ |
+| 15 | Introduction to NumPy | `day15.py` | ✅ |
 
 More phases get added as I go.
 
@@ -62,9 +63,9 @@ python day10.py
 
 ---
 
-##  Tech Stack So Far
+## 💻 Tech Stack So Far
 
-`Python` `requests` `python-dotenv` `json` — more added each phase.
+`Python` `NumPy` `Groq API` `python-dotenv` `requests` `json` — more added each phase.
 
 ---
 
