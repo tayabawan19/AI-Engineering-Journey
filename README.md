@@ -43,6 +43,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 13 | Prompt Engineering | `day13.py` | ✅ |
 | 14 | End-to-End AI App | `day14.py` | ✅ |
 | 15 | Introduction to NumPy | `day15.py` | ✅ |
+| 16 | Pandas Basics | `day16.py` | ✅ |
 
 More phases get added as I go.
 
@@ -65,7 +66,7 @@ python day10.py
 
 ## 💻 Tech Stack So Far
 
-`Python` `NumPy` `Groq API` `python-dotenv` `requests` `json` — more added each phase.
+`Python` `NumPy` `Pandas` `Groq API` `python-dotenv` `requests` `json` — more added each phase.
 
 ---
 
