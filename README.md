@@ -44,7 +44,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 14 | End-to-End AI App | `day14.py` | ✅ |
 | 15 | Introduction to NumPy | `day15.py` | ✅ |
 | 16 | Pandas Basics | `day16.py` · [📊 Workflow Chart](assets/pandas_workflow.jpg) | ✅ |
-| 17 | Data Cleaning with Pandas | `day17.py` | ✅ |
+| 17 | Data Cleaning with Pandas | `day17.py` · [📊 Workflow Chart](assets/data_cleaning_workflow.jpg) | ✅ |
 
 More phases get added as I go.
 
