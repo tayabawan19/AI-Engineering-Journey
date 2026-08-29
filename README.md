@@ -45,6 +45,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 15 | Introduction to NumPy | `day15.py` | ✅ |
 | 16 | Pandas Basics | `day16.py` · [📊 Workflow Chart](assets/pandas_workflow.jpg) | ✅ |
 | 17 | Data Cleaning with Pandas | `day17.py` · [📊 Workflow Chart](assets/data_cleaning_workflow.jpg) | ✅ |
+| 18 | Data Visualization (Matplotlib & Seaborn) | `day18.py` | ✅ |
 
 More phases get added as I go.
 
@@ -67,7 +68,7 @@ python day10.py
 
 ## 💻 Tech Stack So Far
 
-`Python` `NumPy` `Pandas` `Groq API` `python-dotenv` `requests` `json` — more added each phase.
+`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Groq API` `python-dotenv` `requests` `json` — more added each phase.
 
 ---
 
