@@ -43,6 +43,7 @@ plt.ylabel("Average Marks")
 plt.grid(True)
 plt.savefig("chart1_line.png")
 plt.show()
+plt.close()
 
 
 # ============================================================
@@ -61,6 +62,7 @@ plt.ylabel("Average Marks")
 plt.xticks(rotation=0)
 plt.savefig("chart2_bar.png")
 plt.show()
+plt.close()
 
 
 # ============================================================
@@ -76,6 +78,7 @@ plt.xlabel("Marks")
 plt.ylabel("Number of Students")
 plt.savefig("chart3_histogram.png")
 plt.show()
+plt.close()
 
 
 # ============================================================
@@ -91,6 +94,7 @@ plt.xlabel("Study Hours per Day")
 plt.ylabel("Marks")
 plt.savefig("chart4_scatter.png")
 plt.show()
+plt.close()
 
 
 # ============================================================
@@ -104,6 +108,7 @@ sns.boxplot(x=df["Marks"])
 plt.title("Marks Distribution & Outliers")
 plt.savefig("chart5_boxplot.png")
 plt.show()
+plt.close()
 
 
 # ============================================================
@@ -123,6 +128,7 @@ sns.heatmap(correlation, annot=True, cmap="coolwarm")
 plt.title("Correlation Heatmap")
 plt.savefig("chart6_heatmap.png")
 plt.show()
+plt.close()
 
 
 print("\n" + "=" * 40)
