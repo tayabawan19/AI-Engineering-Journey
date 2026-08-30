@@ -47,6 +47,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 17 | Data Cleaning with Pandas | `day17.py` · [📊 Workflow Chart](assets/data_cleaning_workflow.jpg) | ✅ |
 | 18 | Data Visualization (Matplotlib & Seaborn) | `day18.py` | ✅ |
 | 19 | Train/Test Split & Features | `day19.py` · [📊 Workflow Chart](assets/train_test_split_workflow.jpg) | ✅ |
+| 20 | Linear Regression | `day20.py` · [📊 Workflow Chart](assets/linear_regression_workflow.png) | ✅ |
 
 More phases get added as I go.
 
