@@ -45,7 +45,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 15 | Introduction to NumPy | `day15.py` | ✅ |
 | 16 | Pandas Basics | `day16.py` · [📊 Workflow Chart](assets/pandas_workflow.jpg) | ✅ |
 | 17 | Data Cleaning with Pandas | `day17.py` · [📊 Workflow Chart](assets/data_cleaning_workflow.jpg) | ✅ |
-| 18 | Data Visualization (Matplotlib & Seaborn) | `day18.py` | ✅ |
+| 18 | Data Visualization (Matplotlib & Seaborn) | `day18.py` · [📊 Workflow Chart](assets/data_visualization_workflow.png) | ✅ |
 | 19 | Train/Test Split & Features | `day19.py` · [📊 Workflow Chart](assets/train_test_split_workflow.jpg) | ✅ |
 | 20 | Linear Regression | `day20.py` · [📊 Workflow Chart](assets/linear_regression_workflow.png) | ✅ |
 | 21 | Classification (Logistic Regression) | `day21.py` · [📊 Workflow Chart](assets/logistic_regression_workflow.png) | ✅ |
