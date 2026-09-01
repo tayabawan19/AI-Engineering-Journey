@@ -50,6 +50,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 20 | Linear Regression | `day20.py` · [📊 Workflow Chart](assets/linear_regression_workflow.png) | ✅ |
 | 21 | Classification (Logistic Regression) | `day21.py` · [📊 Workflow Chart](assets/logistic_regression_workflow.png) | ✅ |
 | 22 | Decision Trees & Random Forest | `day22.py` · [📊 Workflow Chart](assets/decision_trees_random_forest_workflow.png) · [🌳 Trees Diagram](assets/decision_trees_random_forest_diagram.png) | ✅ |
+| 23 | Model Evaluation Metrics | `day23.py` · [📊 Workflow Chart](assets/model_evaluation_metrics_workflow.png) | ✅ |
 
 More phases get added as I go.
 
