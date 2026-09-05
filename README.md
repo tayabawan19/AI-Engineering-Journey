@@ -51,7 +51,7 @@ I'm Tayyab, a Software Engineering student at COMSATS University Islamabad. This
 | 21 | Classification (Logistic Regression) | `day21.py` · [📊 Workflow Chart](assets/logistic_regression_workflow.png) | ✅ |
 | 22 | Decision Trees & Random Forest | `day22.py` · [📊 Workflow Chart](assets/decision_trees_random_forest_workflow.png) · [🌳 Trees Diagram](assets/decision_trees_random_forest_diagram.png) | ✅ |
 | 23 | Model Evaluation Metrics | `day23.py` · [📊 Workflow Chart](assets/model_evaluation_metrics_workflow.png) | ✅ |
-| 24 | Overfitting & Underfitting | `day24.py` · [📈 Overfitting Plot](assets/day24_overfitting_plot.png) | ✅ |
+| 24 | Overfitting & Underfitting | `day24.py` · [📊 Workflow Chart](assets/overfitting_underfitting_workflow.png) · [📈 Overfitting Plot](assets/day24_overfitting_plot.png) | ✅ |
 
 More phases get added as I go.
 
